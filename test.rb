@@ -6,7 +6,7 @@ class Meep
   def x
     p 7
     p 8
-    derp
+    boom
     p 10
     p 11
   end
